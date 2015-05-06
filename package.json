@@ -1,0 +1,11 @@
+{
+  "name": "menexample",
+  "version" : "1.0.0",
+  "description": "This is an example of an API created with Mongo, Express, and Node",
+  "dependencies": {
+    "http": "*",
+    "express": "4.x",
+    "body-parser": "*",
+    "mongoose": "*"
+  }
+}
